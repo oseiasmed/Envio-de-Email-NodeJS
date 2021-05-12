@@ -9,6 +9,6 @@
   "author": "\"Oséias Medeiros\"",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^6.4.6"
+    "nodemailer": "^6.4.16"
   }
 }
